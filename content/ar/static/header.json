@@ -1,0 +1,52 @@
+{
+  "upperNav": {
+    "phone": "+00123 456 789",
+    "mail": "example@yoursite.com"
+  },
+  "lowerNav": {
+    "logo": "https://raw.githubusercontent.com/A-ElNawawy/bdc/master/src/content/images/logo/Transparent Logo 002.png",
+    "alt": "BDC",
+    "links": [
+      {
+        "id": 1,
+        "title": "الصفحة الرئيسية",
+        "href": "#void"
+      },
+      {
+        "id": 2,
+        "title": "من نحن",
+        "href": "#AboutUs"
+      },
+      {
+        "id": 3,
+        "title": "خدماتنا",
+        "href": "#Services"
+      },
+      {
+        "id": 4,
+        "title": "المدونة",
+        "href": "#Blog"
+      },
+      {
+        "id": 5,
+        "title": "شركائنا",
+        "href": "#Partners"
+      },
+      {
+        "id": 6,
+        "title": "عملائنا",
+        "href": "#Clients"
+      },
+      {
+        "id": 7,
+        "title": "تواصل معنا",
+        "href": "#ContactUs"
+      },
+      {
+        "id": 8,
+        "title": "الأسئلة الشائعة",
+        "href": "#void"
+      }
+    ]
+  }
+}

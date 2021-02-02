@@ -1,0 +1,23 @@
+{
+  "about": {
+      "img": "https://raw.githubusercontent.com/A-ElNawawy/bdc/master/src/content/images/BDCdiscounts.jpg",
+      "alt": "من نحن",
+      "description": "في هذا المقال سنقدم إليك أهم الخطوات والأساليب التي تساعدك في إدارة مختلف أنواع المشاريع الصغيرة بنجاح، لنحاول الإجابة عن بعض التساؤلات الأساسية التي يمكن طرحها بخصوص أفضل طريقة لإدارة المشاريع.",
+      "buttonText": "اقرأ المزيد",
+      "href": "#void"
+    },
+  "mission": {
+      "img": "https://raw.githubusercontent.com/A-ElNawawy/bdc/master/src/content/images/BDCmobileApp.jpg",
+      "alt": "مهمتنا",
+      "description": "في هذا المقال سنقدم إليك أهم الخطوات والأساليب التي تساعدك في إدارة مختلف أنواع المشاريع الصغيرة بنجاح، لنحاول الإجابة عن بعض التساؤلات الأساسية التي يمكن طرحها بخصوص أفضل طريقة لإدارة المشاريع.",
+      "buttonText": "اقرأ المزيد",
+      "href": "#void"
+    },
+  "vision": {
+      "img": "https://raw.githubusercontent.com/A-ElNawawy/bdc/master/src/content/images/BDCdiscounts.jpg",
+      "alt": "رؤيتنا",
+      "description": "في هذا المقال سنقدم إليك أهم الخطوات والأساليب التي تساعدك في إدارة مختلف أنواع المشاريع الصغيرة بنجاح، لنحاول الإجابة عن بعض التساؤلات الأساسية التي يمكن طرحها بخصوص أفضل طريقة لإدارة المشاريع.",
+      "buttonText": "اقرأ المزيد",
+      "href": "#void"
+    }
+}

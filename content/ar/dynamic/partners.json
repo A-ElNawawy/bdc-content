@@ -1,0 +1,38 @@
+{
+  "intro": {
+    "title": "شركاءنا",
+    "description": "تقدم شركتنا العديد من الخدمات التي تساعد الشركات فى التطوير و البتاع تقدم شركتنا العديد من الخدمات التي تساعد الشركات فى التطوير و البتاع"
+  },
+  "partners": [
+    {
+      "id": 1,
+      "logo": "https://raw.githubusercontent.com/A-ElNawawy/bdc/master/src/content/images/partners/adidas.png",
+      "alt": "adidas",
+      "title": "adidas"
+    },
+    {
+      "id": 2,
+      "logo": "https://raw.githubusercontent.com/A-ElNawawy/bdc/master/src/content/images/partners/apple.png",
+      "alt": "apple",
+      "title": "apple"
+    },
+    {
+      "id": 3,
+      "logo": "https://raw.githubusercontent.com/A-ElNawawy/bdc/master/src/content/images/partners/ge.png",
+      "alt": "general electric",
+      "title": "general electric"
+    },
+    {
+      "id": 4,
+      "logo": "https://raw.githubusercontent.com/A-ElNawawy/bdc/master/src/content/images/partners/mcdonalds.png",
+      "alt": "mcdonalds",
+      "title": "mcdonalds"
+    },
+    {
+      "id": 5,
+      "logo": "https://raw.githubusercontent.com/A-ElNawawy/bdc/master/src/content/images/partners/nike.png",
+      "alt": "nike",
+      "title": "nike"
+    }
+  ]
+}
